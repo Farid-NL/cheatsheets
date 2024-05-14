@@ -31,7 +31,7 @@ $ commit_hash2: git log --format=%h --- --preview 'git lg --color=always'
 
 % git, branch
 @ git, remote
-@ git, restore
+@ git, reset
 
 # Create new branch based on current branch
 git branch <branch_name>
