@@ -1,4 +1,4 @@
-% ruby, rbenv
+% ruby rbenv
 
 # Install a new Ruby version
 rbenv install <implementation>
