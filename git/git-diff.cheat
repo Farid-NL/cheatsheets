@@ -1,9 +1,9 @@
 % git, diff
 
-# View changes of a file between commits
+# Show changes of a file between commits
 git diff <commit_hash1> <commit_hash2> -- <file>
 
-# View changes in the staging area
+# Show changes in the staging area
 git diff --staged
 
 $ commit_hash1: git log --format=%h --- --preview 'git lg --color=always'
